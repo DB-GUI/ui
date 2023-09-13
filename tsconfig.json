@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2017",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
+  }
+}
